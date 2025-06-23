@@ -3,8 +3,8 @@ const fs =require('fs');
 
 
 const server = http.createServer((req,res)=>{
-    res.writeHead(200,{'content-type':'text/plain'});
-    const readStream = fs.createReadStream(__dirname +'/read-me.txt','utf-8');
+    res.writeHead(200,{'content-type':'text/html'});
+    const readStream = fs.createReadStream(__dirname +'/index.html','utf-8');
     readStream.pipe(res);
 });
 
