@@ -1,0 +1,48 @@
+What is Perplexity?
+In general English, "perplexity" means a state of confusion or a complicated and difficult situation. However, in the context of technology and artificial intelligence, Perplexity refers to a specific AI-powered search engine and chatbot called Perplexity AI.
+
+What is Perplexity AI?
+Perplexity AI is an advanced search engine and chatbot that uses large language models (LLMs) to answer user questions by drawing information from the internet and providing cited sources within its responses. It was launched in 2022 and is designed to deliver clear, concise answers in natural language, making it easy for anyone to learn and explore topics without sifting through multiple web pages.
+
+How Does Perplexity AI Work?
+1. Understanding Your Question
+
+Perplexity AI uses advanced natural language processing (NLP) to interpret the context and intent behind your question, not just matching keywords but understanding the meaning and nuances.
+
+2. Searching the Web in Real Time
+
+Once it understands your query, Perplexity AI searches the internet for the most relevant and authoritative information. It pulls data from trusted websites, academic articles, news sources, and more.
+
+3. Summarizing and Generating Answers
+
+The AI then distills the gathered information into a clear, easy-to-understand summary. It uses its language model capabilities to generate responses that are conversational and tailored to your specific question.
+
+4. Citing Sources
+
+Each answer includes numbered footnotes or references, linking directly to the original sources. This allows you to verify the information or explore the topic further if needed.
+
+5. Conversational Memory
+
+Perplexity AI remembers the context of your previous questions within a session. This enables it to answer follow-up questions smoothly, maintaining a natural and cohesive conversation.
+
+6. Search Modes
+
+There are two main search modes:
+
+Quick Search: Fast, straightforward answers for simple queries.
+
+Pro Search: Deeper, more tailored responses, sometimes asking follow-up questions for clarification. This is useful for complex or detailed queries.
+
+Key Technologies Behind Perplexity AI
+Large Language Models (LLMs): Such as GPT-4, Claude 3, and custom models, which are trained on vast amounts of text data to understand and generate human-like language.
+
+Machine Learning & NLP: These technologies help the AI interpret complex queries and generate contextually relevant answers.
+
+Real-Time Web Indexing: Perplexity AI frequently updates its knowledge by indexing the internet, ensuring access to the latest information.
+
+What Makes Perplexity AI Different?
+It combines the power of a search engine with an AI assistant, delivering answers with sources rather than just a list of links.
+
+It emphasizes factual accuracy by only using information retrieved from credible sources, and if it can't find enough reliable data, it will say so instead of guessing.
+
+It maintains conversational context, making it feel more like chatting with a knowledgeable assistant than using a traditional search engine.
